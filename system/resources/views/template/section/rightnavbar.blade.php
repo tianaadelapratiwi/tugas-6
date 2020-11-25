@@ -23,7 +23,7 @@
             </div>
           </a>
 
-          <a href="{{url('logout')}}" class="dropdown-item">
+          <a href="{{url('home')}}" class="dropdown-item">
             <i class="fa fa-sign-out"></i>Logout
             <div class="media">
             </div>
